@@ -1,6 +1,6 @@
 # boot-pony
 
-A tiny (10kb) executable for Windows that prints out the pony found in iBoot
+A tiny (~10kb on Windows) executable that prints out the pony found in iBoot
 
 ![Screenshot from cmd](https://github.com/quinl/boot-pony/raw/master/Screenshot.png)
 
